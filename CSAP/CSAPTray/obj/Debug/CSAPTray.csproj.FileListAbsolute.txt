@@ -1,0 +1,11 @@
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.csproj.AssemblyReference.cache
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.csproj.SuggestedBindingRedirects.cache
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.Properties.Resources.resources
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.csproj.GenerateResource.cache
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.csproj.CoreCompileInputs.cache
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\bin\Debug\CSAPTray.exe.config
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\bin\Debug\CSAPTray.exe
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\bin\Debug\CSAPTray.pdb
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.Form1.resources
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.exe
+C:\Users\wanghongbin\source\repos\CSAP\CSAPTray\obj\Debug\CSAPTray.pdb
